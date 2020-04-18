@@ -6,6 +6,8 @@ build*
 *.xrc/
 *.fbp
 
-# Eclipse Files
+# Editor Files
 .cproject
 .project
+.vscode
+.idea
